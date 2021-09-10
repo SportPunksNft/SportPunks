@@ -16,7 +16,7 @@
 	position: absolute;
 	width: 2px;
 	height: 100%;
-	background-color: #2f363e;
+	background-color: #34DC3A;
 	left: calc(50% - 1px);
 }
 .timeline-item{
@@ -37,7 +37,7 @@
 .timeline-dot{
 	height: 16px;
 	width: 16px;
-	background-color: #eaa023;
+	background-color: #34DC3A;
 	position: absolute;
 	left: calc(50% - 8px);
 	border-radius: 50%;
@@ -45,7 +45,7 @@
 }
 .timeline-date{
 	font-size: 18px;
-	color: #eaa023;
+	color: #34DC3A;
 	margin:6px 0 15px;
 }
 .timeline-content{
