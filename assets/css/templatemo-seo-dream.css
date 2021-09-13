@@ -255,7 +255,7 @@ header
 */
 
 .background-header {
-  background-color: #0600ca!important;
+  background-color: #0E45D3 !important;
   height: 80px!important;
   position: fixed!important;
   top: 0px;
@@ -270,7 +270,7 @@ header
 }
 
 .background-header .main-nav .nav li:hover a {
-  color: #0600ca;
+  color: #0E45D3 ;
 }
 
 .background-header .nav li a.active {
@@ -282,7 +282,7 @@ header
   position: absolute;
   width: 20px;
   height: 2px;
-  background-color: #0600ca;
+  background-color: #0E45D3 ;
   content: '';
   left: 50%;
   bottom: 0px;
@@ -290,7 +290,7 @@ header
 }
 
 .header-area {
-  background-color: #0600ca!important;
+  background-color:#0E45D3 !important;
   position: absolute;
   top: 0px;
   left: 0px;
